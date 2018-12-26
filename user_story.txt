@@ -1,0 +1,28 @@
+User should be to able to generate a list of 6 random recipes from a recipe
+file.
+
+User will interact with the list via the command line
+
+User should be able to accept or reject the provided list
+
+If the user rejects the list, a new random list is returned
+
+If a recipe has been picked in the last 10 days, the recipe will not appear in the
+pick list.
+
+User should be able to interface will app through a web page
+website should accessible through the internet not just through
+
+User should be able to add a recipe to the master recipe list
+
+User should be able to generate a list through a list of ingredients they already
+have
+
+Do one better that the user has 70% of items, only return items from that list.
+
+The user should be able to graph which items they picked they had the most during
+a given year.
+
+Display a graph on how "balanced" what recipes they created based off food groups.
+
+test

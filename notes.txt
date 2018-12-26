@@ -1,0 +1,2 @@
+1. do a google search "pick five random items from a list, python"
+that found: https://stackoverflow.com/questions/4601346/choose-5-different-elements-from-a-list
